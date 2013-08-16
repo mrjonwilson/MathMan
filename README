@@ -1,1 +1,5 @@
+This is a simple Ruby app for doing math.
+
+So far, it can greet the user, ask for a couple of numbers, multiply them together, and spit out the answer. Then the program will ask if the user wants to play again.
+
 This file was created by JetBrains RubyMine 5.4.3.2.1 for binding GitHub repository
